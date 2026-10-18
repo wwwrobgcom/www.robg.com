@@ -1,0 +1,7 @@
+{
+  "name": "OM Telecom - www.om.com",
+  "description": "Multi-Recharge, Drive Offer, Utility Bill Pay & Reseller Telecom Platform inspired by Sadia Telecom",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
